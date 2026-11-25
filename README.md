@@ -1,8 +1,8 @@
 # Mustafa Zahoor
 
-### Software engineering student · Full-stack web & mobile development
+### Software engineering graduate · Full-stack web & mobile development
 
-I study Software Engineering at the **University of Central Punjab (UCP)** in Lahore, Pakistan. I build web and mobile projects with React, Next.js, React Native and Node.js, and explore how Python-based AI services can fit into an application.
+I completed my **BS in Software Engineering at the University of Central Punjab (UCP) in July 2026**. I am based in Lahore, Pakistan. I build web and mobile projects with React, Next.js, React Native and Node.js, and explore how Python-based AI services can fit into an application.
 
 My projects cover online storefronts, event management, recipe discovery and skin-care workflows. I enjoy connecting the interface, API and database into a working product.
 
@@ -25,6 +25,11 @@ My projects cover online storefronts, event management, recipe discovery and ski
 These repositories include learning projects and prototypes. They are not presented as commercial client deployments. Skinzy is a development prototype, not a clinically validated diagnostic tool.
 
 **Explore:** [Portfolio website](https://portfolio-react-js-tan.vercel.app/) · [Project repositories](https://github.com/Mustafazahoor975?tab=repositories)
+
+## My contributions
+
+- **Skinzy — team project:** I handled model training and developed the website frontend and backend.
+- **Solo projects:** I independently built Sajiero, Event Management API, Lazeez and my developer portfolio.
 
 ## Technical toolkit
 
